@@ -20,7 +20,7 @@ Copy
 ## Kullanım
 
 1. Programı çalıştırın:
-python web_security_scanner.py
+python main.py
 Copy
 2. Arayüzde "Hedef URL" alanına taramak istediğiniz web sitesinin URL'sini girin.
 
